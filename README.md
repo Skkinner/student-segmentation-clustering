@@ -299,7 +299,7 @@ Alternatively, the notebook can be opened and executed in Google Colab.
 |---|---|
 | Fahad Al-Nahi | [@Skkinner](https://github.com/Skkinner) |
 | Basma Almuntaser | [@Basmaalmuntaser](https://github.com/username) |
-| Raghad Alharbi | [@username](https://github.com/username) |
+| Raghad Alharbi | [@Raghad5MH](https://github.com/Raghad5MH) |
 | Reham | [@username](https://github.com/username) |
 
 ---
